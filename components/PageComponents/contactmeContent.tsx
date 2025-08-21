@@ -29,12 +29,6 @@ export default function ContactMeContent() {
             link: "https://twitter.com/pkdiv",
             info: "pkdiv"
         },
-        {
-            name: "Phone",
-            icon: <Phone className="w-6 h-6 text-sky-900" />,
-            link: "9036144033",
-            info: "9036144033"
-        },
     ];
 
     return (
